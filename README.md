@@ -100,6 +100,11 @@ LINQ to JSON
 - [PlayerPrefs Editor](https://assetstore.unity.com/packages/tools/utilities/playerprefs-editor-167903)  
   The PlayerPrefs Editor enables easy access to the player preferences over a simple UI. It allows to view, add, remove and modify entries on the development machine.
 
+## SDKs
+
+- [Firebase](https://firebase.google.com/download/unity?hl=ru)
+- [AppMetrica](https://appmetrica.yandex.ru/docs/ru/sdk/unity/analytics/quick-start)
+- [LevelPlay](https://github.com/ironsource-mobile/Unity-sdk/releases)
 
 ## Standarts
 
