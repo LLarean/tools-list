@@ -105,6 +105,7 @@ LINQ to JSON
 - [Firebase](https://firebase.google.com/download/unity?hl=ru)
 - [AppMetrica](https://appmetrica.yandex.ru/docs/ru/sdk/unity/analytics/quick-start)
 - [LevelPlay](https://github.com/ironsource-mobile/Unity-sdk/releases)
+- [YandexGamesSDK-Unity](https://yandex-games-docs.playables.studio/getting-started/quickstart/installation) & [Plugin Your Games 2.0](https://max-games.ru/plugin-yg/)
 
 ## Standarts
 
