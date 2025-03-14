@@ -105,7 +105,6 @@ LINQ to JSON
 - [Firebase](https://firebase.google.com/download/unity?hl=ru)
 - [AppMetrica](https://appmetrica.yandex.ru/docs/ru/sdk/unity/analytics/quick-start)
 - [LevelPlay](https://github.com/ironsource-mobile/Unity-sdk/releases)
-- [YandexGamesSDK-Unity](https://yandex-games-docs.playables.studio/getting-started/quickstart/installation) & [Plugin Your Games 2.0](https://max-games.ru/plugin-yg/)
 
 ## Standarts
 
@@ -129,6 +128,10 @@ This asset adds file upload capability to the Unity WebGL platform.
 - [Nat's WebGL FileSaver](https://github.com/Nateonus/WebGLFileSaverForUnity)  
 A simple way of saving/downloading files from a WebGL build on Unity
 
+## YandexGames
 
 - [PluginYG Yandex Game integration](https://assetstore.unity.com/packages/add-ons/pluginyg-yandex-game-integration-235877)  
 PluginYG is your best assistant for integrating the Yandex Games SDK.
+
+- [Plugin Your Games 2.0](https://max-games.ru/plugin-yg/)   
+Plugin Your Games 2.0 is a plugin for Unity that allows you to connect your games to the Yandex Games platform.
