@@ -14,6 +14,9 @@ Json.NET is a popular high-performance JSON framework for .NET
 World-class JSON Serializer  
 LINQ to JSON  
 
+- [R3](https://github.com/Cysharp/R3)  
+The new future of dotnet/reactive and UniRx.
+
 ## Animation
 
 - [DOTween](https://dotween.demigiant.com/download.php)  
@@ -32,6 +35,10 @@ LINQ to JSON
 
 - [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)  
   Attribute Extensions for Unity
+
+
+- [SaintsField](https://github.com/TylerTemp/SaintsField?tab=readme-ov-file)  
+  A Unity Inspector extension tool focusing on script fields inspector enhancement
 
 
 ## Debug
