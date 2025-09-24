@@ -148,3 +148,7 @@ PluginYG is your best assistant for integrating the Yandex Games SDK.
 
 - [Plugin Your Games 2.0](https://max-games.ru/plugin-yg/)   
 Plugin Your Games 2.0 is a plugin for Unity that allows you to connect your games to the Yandex Games platform.
+  
+---  
+<div align="center">
+⭐ If this project helped you, please consider giving it a star!
